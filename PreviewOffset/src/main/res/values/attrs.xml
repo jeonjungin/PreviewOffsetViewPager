@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PreviewOffsetSlideView">
+        <attr name="itemMarginHorizontal" format="dimension"/>
+        <attr name="previewItemWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
